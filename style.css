@@ -1,0 +1,172 @@
+body {
+    margin: 0%;
+}
+.header h1 {
+    margin: 0%;
+    float: left;
+    margin-left: 5%;
+}
+.header ul {
+    text-align: right;
+    margin-right: 4%;
+}
+.header li {
+    list-style: none;
+    display: inline;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 120%;
+    padding-top: 0.5%;
+}
+.vis-square {
+    width: 850px;
+    height: 750px;
+    background-color: rgb(167, 167, 167);
+    position: absolute;
+    top: 0%;
+    z-index: -1;
+}
+.vis-img {
+    position: absolute;
+    right: 3%;
+    top: 10%;
+}
+.vis-title {
+    position: absolute;
+    font-size: 300%;
+    left: 25%;
+    top: 25%;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 1% 1%;
+}
+.about {
+    margin-top: 40%;
+    margin-left: 5%;
+}
+.about img {
+    width: 40%;
+    height: 40%;
+    float: left;
+}
+.about-title {
+    text-align: center;
+    padding-top: 1%;
+    font-size: 150%;
+}
+.about p {
+    margin-left: 50%;
+    line-height: 35px;
+    margin-top: 2%;
+}
+.business {
+    clear: both;
+    margin-top: 10%;
+    background-color: rgb(167, 167, 167);
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.business h3 {
+    font-size: 150%;
+    text-align: center;
+}
+.business-inline {
+    text-align: center;
+}
+.business-inline h4 {
+    text-align: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.business-inline p {
+    text-align: left;
+    margin: 0%;
+}
+.business-inline div {
+    display: inline-block;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.news {
+    margin-top: 10%;
+    margin-bottom: 8%;
+}
+.news h3 {
+    font-size: 150%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.news dd {
+    float: left;
+    margin-left: 23%;
+    color: rgb(73, 73, 73);
+}
+.news dt {
+    margin-left: 35%;
+}
+.news div {
+    border-bottom: solid rgb(158, 158, 158) 1px;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.square-2 {
+    width: 800px;
+    height: 350px;
+    background-color: rgb(167, 167, 167);
+    position: absolute;
+    right: 0%;
+    z-index: -1;
+}
+.recruit-img {
+    margin-top: 2%;
+    margin-left: 3%;
+}
+.recruit {
+    font-size: 250%;
+    position: absolute;
+    top: 3000px;
+    left: 25%;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 1% 5%;
+}
+.footer-info {
+    width: 40%;
+    padding-top: 10%;
+    margin-left: 15%;
+}
+.footer-info h4 {
+    font-size: 160%;
+    margin-bottom: 1%;
+}
+.footer-info p {
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    clear: both;
+}
+.footer-navi {
+    text-align: right;
+    margin-right: 10%;
+    padding-bottom: 10%;
+}
+.footer-navi li {
+    list-style: none;
+    display: inline;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 130%;
+}
+.footer-cont {
+    display: flex;
+}
+.navi-footer {
+    width: 100%;
+    padding-top: 15%;
+}
+.footer {
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+    padding-top: 2%;
+}
+.footer p {
+    margin: 0%;
+}
